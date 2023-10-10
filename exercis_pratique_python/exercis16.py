@@ -1,8 +1,10 @@
 #  Trier une chaîne de caratères 
-
+# liste ----> Str methode join()
+# Str ---> liste  methode split()
 c = "france"
 
 ordre_croissante = sorted(c)
-print(ordre_croissante)
+tri_str = "".join(ordre_croissante)
+print(tri_str)
 
-#  sortie ---> ['a', 'c', 'e', 'f', 'n', 'r']
+#  sortie ---> acefnr
