@@ -5,6 +5,10 @@ ch = 'Bonjour tout le monde'
 inverser_chaine_de_caratere = ''.join(reversed(ch))
 print (f" le pharse est la suivante : {inverser_chaine_de_caratere}")
 
+#  une ature facon de le faire 
+
+# ch[::-1]
+
 
 #  methode join() , chaîne_resultat = séparateur.join(séquence)
 '''
