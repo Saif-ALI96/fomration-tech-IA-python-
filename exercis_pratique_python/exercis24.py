@@ -13,7 +13,8 @@
  8 x 9 = 72
  8 x 10 = 80'''
 
-tableau_8 = []
+# 1-  
+'''tableau_8 = []
 nombre_8 = range(11)
 # print(tableau_8)
 
@@ -21,3 +22,10 @@ for i in nombre_8:
     tableau_8.append(nombre_8)
 
     print(' {} x {} = {}'.format(8,i,i*8))
+'''
+
+#  2-
+
+for nombre_8 in range(11):
+    # print(nombre_8)
+    print (f'8 x {nombre_8} = {nombre_8 * 8}')
