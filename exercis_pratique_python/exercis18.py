@@ -6,6 +6,11 @@ l = [('Pomme',15),('Banane',8),('Fraise',12),('Kiwi',9),('Peche',2)]
 liste_tri = sorted(l,key=lambda x:x[1])
 print(liste_tri)
 
+
+def sort_seconde_elem(elem):
+    return elem[1]
+l.sort(key=sort_seconde_elem)
+
 '''
 
 1. Tout d'abord, vous avez une liste de tuples nommée `l`.
