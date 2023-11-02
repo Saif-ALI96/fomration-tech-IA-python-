@@ -12,4 +12,5 @@ for i in cle_afficher:
         # 2- 
         # print(key) # ----> Pomme Banane , ca va afficher les deux cles 
         # 3-
+        
         print(dict_fruits[i]) # ----> ca va afficher les valeurs de cles "Pomme" et "Banane" qui sont le 3 et 7
