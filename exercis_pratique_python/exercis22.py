@@ -1,4 +1,3 @@
-
 # Utilisation de la méthode format()
 
 nombre_decimal = 187.632587
