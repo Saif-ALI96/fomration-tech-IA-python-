@@ -7,6 +7,6 @@ print('la reponse est : {0:.2f}' .format((nombre_decimal))) # sortie ----> la re
 
 
 
-#  le %s ---- >  c'est pour le type STRING
+'''#  le %s ---- >  c'est pour le type STRING
 #  le %d ---- >  c'est pour le type NUMBERS
-#  le %f ---- >  c'est pour le type FLOAT
+#  le %f ---- >  c'est pour le type FLOAT'''
